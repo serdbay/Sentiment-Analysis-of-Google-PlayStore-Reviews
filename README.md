@@ -19,7 +19,9 @@ You can find our data in our resources section. By the way you can create your o
 In this project our goal is to work through this notebook to help the company understand if they should:
 
 *Implement the new customer sections,
+
 *Keep the old customer sections,
+
 *Or perhaps run the experiment longer to make their decision in order to see their customer reviews on their product's profitability.
 
 If you try to answer some same questions in your another customer reviews based projects, you can use this project as a template for yourself. 
